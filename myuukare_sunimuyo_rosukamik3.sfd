@@ -1,0 +1,435 @@
+SplineFontDB: 3.2
+FontName: myuusunimuyo
+FullName: myuusunimuyo
+FamilyName: myuusunimuyo
+Weight: Regular
+Copyright: Copyright (c) 2021, Akira Sekiguchi
+UComments: "2021-12-14: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 921 1256072583 8681776]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1639471555
+ModificationTime: 1639480949
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+Lookup: 4 0 1 "'rlig' +X8WYCDBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0" { "'rlig' +X8WYCDBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "a" { "a-1"  } []
+Lookup: 1 0 0 "'medi' +ip5OLV9i in +MOkwxjDzZYdbVwAA lookup 0" { "'medi' +ip5OLV9i in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['medi' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "-a" { "-a-1" [150,15,0] "-a-2" [150,15,0] } []
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 25 10
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "bottom"""  "vowel"""  "top""" 
+BeginChars: 1114112 20
+
+StartChar: zero
+Encoding: 48 48 0
+Width: 1000
+VWidth: 0
+VStem: 463 52<20 778>
+LayerCount: 2
+Fore
+SplineSet
+463 778 m 1
+ 515 778 l 1
+ 515 20 l 1
+ 463 20 l 1
+ 463 778 l 1
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 1
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 420 60<360 630>
+VStem: 360 270<420 480> 463 52<20 778>
+LayerCount: 2
+Fore
+SplineSet
+360 480 m 5xc0
+ 630 480 l 5
+ 630 420 l 5
+ 360 420 l 5
+ 360 480 l 5xc0
+EndSplineSet
+Refer: 0 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: two
+Encoding: 50 50 2
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 124 68<374 614> 622 56<378 610>
+VStem: 374 240<124 192 622 678> 463 52<20 778>
+LayerCount: 2
+Fore
+SplineSet
+374 192 m 5xe0
+ 614 192 l 5
+ 614 124 l 5
+ 374 124 l 5
+ 374 192 l 5xe0
+378 678 m 1
+ 610 678 l 1
+ 610 622 l 1
+ 378 622 l 1
+ 378 678 l 1
+EndSplineSet
+Refer: 0 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: three
+Encoding: 51 51 3
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 106 54<358 618> 348 62<364 612> 644 44<366 626>
+VStem: 358 268 463 52<20 778>
+LayerCount: 2
+Fore
+SplineSet
+358 160 m 5xf0
+ 618 160 l 5
+ 618 106 l 5
+ 358 106 l 5
+ 358 160 l 5xf0
+364 410 m 1
+ 612 410 l 1
+ 612 348 l 1
+ 364 348 l 1
+ 364 410 l 1
+366 688 m 1
+ 626 688 l 1
+ 626 644 l 1
+ 366 644 l 1
+ 366 688 l 1
+EndSplineSet
+Refer: 0 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: four
+Encoding: 52 52 4
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 94 60<366 622> 268 66<360 632> 450 62<366 628> 634 60<378 612>
+VStem: 360 272<268 334 450 512> 463 52<20 778>
+LayerCount: 2
+Fore
+SplineSet
+360 334 m 5xf8
+ 632 334 l 5
+ 632 268 l 5
+ 360 268 l 5
+ 360 334 l 5xf8
+366 512 m 1
+ 628 512 l 1
+ 628 450 l 1
+ 366 450 l 1
+ 366 512 l 1
+366 154 m 1
+ 622 154 l 1
+ 622 94 l 1
+ 366 94 l 1
+ 366 154 l 1
+378 694 m 1
+ 612 694 l 1
+ 612 634 l 1
+ 378 634 l 1
+ 378 694 l 1
+EndSplineSet
+Refer: 0 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five
+Encoding: 53 53 5
+Width: 1000
+VWidth: 0
+Flags: W
+VStem: 408 152 465 52<19 669>
+LayerCount: 2
+Fore
+SplineSet
+493 756 m 28x00
+ 465 758 442 738 440 710 c 24
+ 438 679 455 648 486 646 c 24
+ 514 644 528 675 530 703 c 24
+ 532 728 518 754 493 756 c 28x00
+496 612 m 24
+ 447 607 409 654 408 704 c 24
+ 407 751 445 786 492 790 c 24
+ 530 794 559 757 560 718 c 24x80
+ 561 670 544 616 496 612 c 24
+EndSplineSet
+Refer: 0 48 N 1 0 0 0.85752 2 1.8496 2
+EndChar
+
+StartChar: six
+Encoding: 54 54 6
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 342 59<378 603>
+VStem: 378 225<342 401> 408 152 465 52<19 669>
+LayerCount: 2
+Fore
+SplineSet
+378 401 m 5xc0
+ 603 401 l 5
+ 603 342 l 5
+ 378 342 l 5
+ 378 401 l 5xc0
+EndSplineSet
+Refer: 5 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven
+Encoding: 55 55 7
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 121 50<371 607> 471 52<375 615>
+VStem: 371 244 408 152 465 52<19 669>
+LayerCount: 2
+Fore
+SplineSet
+371 171 m 5xe0
+ 607 171 l 5
+ 607 121 l 5
+ 371 121 l 5
+ 371 171 l 5xe0
+375 523 m 1
+ 615 523 l 1
+ 615 471 l 1
+ 375 471 l 1
+ 375 523 l 1
+EndSplineSet
+Refer: 5 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight
+Encoding: 56 56 8
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 67 64<355 639> 277 58<359 633> 495 48<363 631>
+VStem: 355 284<67 131 277 335> 408 152 465 52<19 669>
+LayerCount: 2
+Fore
+SplineSet
+355 67 m 5xf0
+ 355 131 l 5
+ 639 131 l 5
+ 639 67 l 5
+ 355 67 l 5xf0
+359 335 m 1
+ 633 335 l 1
+ 633 277 l 1
+ 359 277 l 1
+ 359 335 l 1
+363 543 m 1
+ 631 543 l 1
+ 631 495 l 1
+ 363 495 l 1
+ 363 543 l 1
+EndSplineSet
+Refer: 5 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine
+Encoding: 57 57 9
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 57 56<353 629> 193 52<341 647> 337 60<349 625> 489 62<371 621>
+VStem: 341 306<193 245> 408 152 465 52<19 669>
+LayerCount: 2
+Fore
+SplineSet
+341 245 m 1xf8
+ 647 245 l 1
+ 647 193 l 1
+ 341 193 l 1
+ 341 245 l 1xf8
+349 397 m 1
+ 625 397 l 1
+ 625 337 l 1
+ 349 337 l 1
+ 349 397 l 1
+353 113 m 1
+ 629 113 l 1
+ 629 57 l 1
+ 353 57 l 1
+ 353 113 l 1
+371 551 m 1
+ 621 551 l 1
+ 621 489 l 1
+ 371 489 l 1
+ 371 551 l 1
+EndSplineSet
+Refer: 5 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: a
+Encoding: 97 97 10
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+639 0 m 1
+ 755 -204 l 1
+ 817 -124 l 1
+ 697 0 l 1
+ 639 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 11
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 10 97 S -1 0 0 1 1078 0 2
+EndChar
+
+StartChar: o
+Encoding: 111 111 12
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 10 97 S -1.02809 -0 0 -0.955882 1067.95 603 2
+Substitution2: "'medi' +ip5OLV9i in +MOkwxjDzZYdbVwAA lookup 0-1" gravecomb
+EndChar
+
+StartChar: u
+Encoding: 117 117 13
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 10 97 S 1 0 0 -0.95098 -6 604 2
+EndChar
+
+StartChar: e
+Encoding: 101 101 14
+Width: 1000
+VWidth: 0
+HStem: 692 60<239 787>
+LayerCount: 2
+Fore
+SplineSet
+239 752 m 5
+ 787 752 l 5
+ 787 692 l 5
+ 239 692 l 5
+ 239 752 l 5
+EndSplineSet
+EndChar
+
+StartChar: gravecomb
+Encoding: 768 768 15
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+56 743 m 1
+ 230 621 l 1
+ 254 645 l 1
+ 148 763 l 5
+ 56 743 l 1
+EndSplineSet
+EndChar
+
+StartChar: acutecomb
+Encoding: 769 769 16
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 15 768 N -0.929293 0 0 1 490.04 0 2
+EndChar
+
+StartChar: uni0302
+Encoding: 770 770 17
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 16 769 N -0.929348 0 0 1 491.054 2 2
+Refer: 16 769 N -0.902174 0 -0 -1.20423 629.152 1521.82 2
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 18
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 19
+Width: 1000
+VWidth: 0
+Flags: H
+HStem: 330 68<207 744>
+AnchorPoint: "bottom" 500 100 basechar 0
+AnchorPoint: "top" 500 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+206 398 m 1
+ 744 398 l 1
+ 745 330 l 1
+ 207 330 l 1
+ 206 398 l 1
+EndSplineSet
+Kerns2: 14 -1027 "-a-1" 12 -1000 "-a-1" 13 -1107 "-a-1" 11 -1040 "-a-1" 10 -1173 "-a-1"
+Ligature2: "a-1" a
+EndChar
+EndChars
+EndSplineFont
